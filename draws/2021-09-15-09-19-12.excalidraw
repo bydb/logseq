@@ -1,10 +1,1 @@
-{
-  "type": "excalidraw",
-  "version": 2,
-  "source": "https://logseq.com",
-  "elements": [],
-  "appState": {
-    "viewBackgroundColor": "#FFF",
-    "gridSize": null
-  }
-}
+{"type":"excalidraw","version":2,"source":"https://logseq.com","elements":[{"id":"YtNbVb4hB4D2WXAM6W3CO","type":"draw","x":215,"y":124,"width":0,"height":0,"angle":0,"strokeColor":"#000000","backgroundColor":"transparent","fillStyle":"hachure","strokeWidth":1,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"strokeSharpness":"round","seed":755968272,"version":2,"versionNonce":1302310896,"isDeleted":false,"boundElementIds":null,"points":[[0,0]],"lastCommittedPoint":null,"startBinding":null,"endBinding":null,"startArrowhead":null,"endArrowhead":null}],"appState":{"gridSize":null,"viewBackgroundColor":"#FFF"}}
