@@ -76,4 +76,4 @@
  ;; becomes
  ;; Rose is red, violet's blue. Life's ordered: Org assists you.
  :macros {}
- :graph/settings {:journal? true}}
+ :graph/settings {:journal? true, :builtin-pages? false}}
